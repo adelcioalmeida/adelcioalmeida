@@ -45,7 +45,7 @@ Estou em transição de carreira para Tecnologia, direcionando meus estudos e pr
 ### 📋 [OrdemPro](https://github.com/adelcioalmeida/ordempro)
 Sistema web para **gestão de ordens de serviço**, desenvolvido como projeto de conclusão de curso.
 
-**Tecnologiass:** Java • Spring Boot • Spring Security • JPA/Hibernate • MySQL • Thymeleaf
+**Tecnologias:** Java • Spring Boot • Spring Security • JPA/Hibernate • MySQL • Thymeleaf
 
 - Autenticação e controle de acesso por perfis
 - Gestão de clientes, serviços e ordens de serviço
