@@ -64,3 +64,5 @@ API backend desenvolvida para estudo e prática de **APIs REST e autenticação*
 
 ### 🎮 [API WebPlaystore](https://github.com/adelcioalmeida/WebPlaystore-API)
 Projeto de API voltado à prática de desenvolvimento backend e construção de serviços REST.
+
+<!-- teste-atualizacao -->
