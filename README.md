@@ -96,7 +96,14 @@ API backend desenvolvida para estudo e prática de **APIs REST e autenticação*
 - Autenticação com JWT
 
 ### 🎮 [API WebPlaystore](https://github.com/adelcioalmeida/WebPlaystore-API)
-Projeto de API voltado à prática de desenvolvimento backend e construção de serviços REST.
+API REST desenvolvida em **Java e Spring Boot** para prática de desenvolvimento backend e persistência de dados.
+
+**Tecnologias:** Java 21 • Spring Boot • Spring Data JPA • Hibernate • H2 • Maven
+
+- Modelagem de usuários, produtos, categorias e pedidos
+- Criação de endpoints REST
+- Persistência de dados com JPA/Hibernate
+- Organização em entidades, repositories e resources
 
 <!-- teste-atualizacao -->
 
