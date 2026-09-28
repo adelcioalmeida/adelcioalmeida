@@ -13,7 +13,7 @@ Desenvolvedor Júnior | Java • Spring Boot • NestJS • TypeScript
 </h3>
 
 <p align="center">
-Formado em Análise e Desenvolvimento de Sistemas • Pós-graduanndo em Arquitetura de Software e Desenvolvimento em Aplicações Web
+Formado em Análise e Desenvolvimento de Sistemas • Pós-graduando em Arquitetura de Software e Desenvolvimento em Aplicações Web
 </p>
 
 <p align="center">
@@ -104,8 +104,6 @@ API REST desenvolvida em **Java e Spring Boot** para prática de desenvolvimento
 - Criação de endpoints REST
 - Persistência de dados com JPA/Hibernate
 - Organização em entidades, repositories e resources
-
-<!-- teste-atualizacao -->
 
 
 <p align="center">
