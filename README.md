@@ -1,4 +1,12 @@
-<h1 align="center">Olá 👋, eu sou Adelcio Almeida</h1>
+<p align="center">
+  <img src="./Imagem do Codex 27 de set. de 2026, 20_53_49.png" alt="Banner Adelcio Almeida" width="100%" />
+</p>
+
+<h1 align="center">Olá 👋, Obrigado pela visita!</h1>
+<p align="center">
+Fique à vontade
+</p>
+
 
 <h3 align="center">
 Desenvolvedor Júnior | Java • Spring Boot • NestJS • TypeScript
