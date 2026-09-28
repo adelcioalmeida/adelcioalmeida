@@ -99,3 +99,8 @@ API backend desenvolvida para estudo e prática de **APIs REST e autenticação*
 Projeto de API voltado à prática de desenvolvimento backend e construção de serviços REST.
 
 <!-- teste-atualizacao -->
+
+
+<p align="center">
+  <img src="./Imagem.png" alt="Banner Adelcio Almeida" width="100%" />
+</p>
